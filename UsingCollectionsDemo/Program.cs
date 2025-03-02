@@ -161,7 +161,7 @@ namespace UsingCollectionsDemo
                 }
             }
             
-            Console.WriteLine("\nMerci d'avoir utilisé le programme de gestion des notes !");
+            Console.WriteLine("\nprogramme de gestion des notes End!");
         }
     }
 }
